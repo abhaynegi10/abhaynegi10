@@ -10,7 +10,6 @@
 [![Badge](https://images.credly.com/images/b7898c75-72ce-4304-b227-0aa7563aaca9/blob)](https://www.credly.com/badges/c3513ddb-50b5-4b83-a662-f464ad4d8331/public_url)
 
 Completed through [Google Cloud Skills Boost](https://www.cloudskillsboost.google/).  
-This badge certifies my ability to work with ______________.
 
 
 
