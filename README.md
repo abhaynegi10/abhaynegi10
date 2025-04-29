@@ -3,6 +3,17 @@
 <p>I am Abhay Negi. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from VIT Bhopal University, Bhopal. I am an experienced developer skilled in C++, Java, Android Development. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.</p>
 
 
+## 🧠 Skills & Certifications
+
+### 🚀 Google Cloud Skill Badge: *[Build Real World AI Applications with Gemini and Imagen]*
+
+[![Badge](https://images.credly.com/images/b7898c75-72ce-4304-b227-0aa7563aaca9/blob)](https://www.credly.com/badges/c3513ddb-50b5-4b83-a662-f464ad4d8331/public_url)
+
+Completed through [Google Cloud Skills Boost](https://www.cloudskillsboost.google/).  
+This badge certifies my ability to work with ______________.
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhay.20_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-negi-27023028a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anegi5560@gmail.com) 
 
