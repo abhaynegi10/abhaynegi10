@@ -5,12 +5,10 @@
 
 ## 🧠 Skills & Certifications
 
-### 🚀 Google Cloud Skill Badge: *[Build Real World AI Applications with Gemini and Imagen]*
+### 🚀 [Google Cloud Skill Badge: *Build Real World AI Applications with Gemini and Imagen*](https://www.credly.com/badges/c3513ddb-50b5-4b83-a662-f464ad4d8331/public_url)
 
-[![Badge]](https://www.credly.com/badges/c3513ddb-50b5-4b83-a662-f464ad4d8331/public_url)
 
 Completed through [Google Cloud Skills Boost](https://www.cloudskillsboost.google/).  
-
 
 
 ## 🌐 Socials:
