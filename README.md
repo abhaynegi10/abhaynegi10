@@ -10,6 +10,9 @@
 
 Completed through [Google Cloud Skills Boost](https://www.cloudskillsboost.google/).  
 
+### 📘 [Udemy Certificate: *Figma for User Interface and User Experience UIUX Design*](https://www.udemy.com/certificate/UC-0b2e42fe-7a37-4bb4-9669-35362b4e79b4/)  
+Completed on [Udemy](https://www.udemy.com/)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhay.20_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-negi-27023028a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anegi5560@gmail.com) 
